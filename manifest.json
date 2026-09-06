@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "drunkleen.desktop-clock",
+  "name": "Stencil Desktop Clock",
+  "version": "1.0.0",
+  "author": "drunkleen",
+  "description": "Bottom-left desktop clock using Stencil Pixel-7.",
+  "kinds": [
+    "service"
+  ],
+  "keepLoaded": true,
+  "entryPoints": {
+    "service": "DesktopClock.qml"
+  }
+}
