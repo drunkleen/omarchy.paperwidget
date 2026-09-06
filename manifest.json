@@ -4,7 +4,7 @@
   "name": "PaperWidget",
   "version": "1.0.0",
   "author": "DrunkLeen",
-  "description": "Bottom-left desktop clock using Stencil Pixel-7.",
+  "description": "Bottom-left desktop clock with audio equalizer using Stencil Pixel-7.",
   "kinds": [
     "service"
   ],
