@@ -122,7 +122,7 @@ Scope {
               delegate: Item {
                 property int idx: index
                 property int bandIdx: paperWidget.bandOrder[idx]
-                width: (eqContainer.width - 7 * 8) / 8
+                width: (eqContainer.width - (9 * 8)) / 8
                 height: eqContainer.height
 
                 Rectangle {
